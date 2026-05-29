@@ -35,6 +35,7 @@ The analysis focuses on improving stock management efficiency, reducing inventor
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+- Power BI
 
 ## Key Analyses Performed
 
