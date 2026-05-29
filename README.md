@@ -27,6 +27,8 @@ The analysis focuses on improving stock management efficiency, reducing inventor
 5. Purchase Transactions
 6. Sales Transactions
 
+Link to datasets - https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data
+
 ## Technologies Used
 
 - Python
